@@ -1,0 +1,6 @@
+include <pthread.h>
+
+main()
+{
+
+}
